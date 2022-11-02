@@ -26,7 +26,7 @@ class Books extends Component {
                 { this.state.books.map( book => {
                     return <h3> key={book.id}>{book.title}</h3>
                 })}
-                <button onClick={this.loadBooks}>Load Books</button>
+                <button className="button3" onClick={this.loadBooks}>Load Books</button>
             </div>
         );
     }

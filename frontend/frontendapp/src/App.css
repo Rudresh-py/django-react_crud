@@ -33,3 +33,12 @@ body{
 
 
 }
+
+@media screen and (min-width: 576px) {
+  body {
+    background-color: green;
+    background-image: radial-gradient(whitesmoke, green);
+  }
+
+  
+}

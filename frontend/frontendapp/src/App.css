@@ -38,25 +38,25 @@ body{
   background-color: red;
 }
 
-@media screen and (min-width: 576px) {
-  body {
-    background-color: green;
-    background-image: radial-gradient(whitesmoke, green);
-  }
-.button3{
-  display: none;
+/*@media screen and (min-width: 576px) {*/
+/*  body {*/
+/*    background-color: green;*/
+/*    background-image: radial-gradient(whitesmoke, green);*/
+/*  }*/
+/*.button3{*/
+/*  display: none;*/
 
-}
+/*}*/
 
-}
+/*}*/
 
-@media screen and (min-width: 950px) {
-  body {
-    background-color: green;
-    background-image: radial-gradient(whitesmoke, #93c54b);
-  }
-.button3{
-  display: none;
+/*@media screen and (min-width: 950px) {*/
+/*  body {*/
+/*    background-color: green;*/
+/*    background-image: radial-gradient(whitesmoke, #93c54b);*/
+/*  }*/
+/*.button3{*/
+/*  display: none;*/
 
-}
-}
+/*}*/
+/*}*/
